@@ -32,7 +32,8 @@
     "supertest": "^3.0.0"
   },
   "engines": {
-    "node": ">=0.12"
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
   },
   "engineStrict": true
 }
